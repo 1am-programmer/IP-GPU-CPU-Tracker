@@ -24,7 +24,7 @@ SystemInfoChromeExtension is a Chrome extension designed to gather and display y
 ## Installation
 
 1. Clone or download the repository.
-2. Open Chrome and navigate to ``.
+2. Open Chrome and navigate to `https://chromewebstore.google.com/detail/system-info-extension/gmpbhgbfihoiejmjgmifhikajbmjjajb?hl=en&authuser=1`.
 3. Enable "Developer mode" at the top right corner.
 4. Click "Load unpacked" and select the directory containing the extension files.
 
